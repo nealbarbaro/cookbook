@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: cookbook_development
+  pool: 5
+  username: x
+  password: 5544
